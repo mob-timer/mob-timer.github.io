@@ -11,7 +11,7 @@
 A cross-platform mob-timer built on [Electron](http://electron.atom.io/)
 for doing [Mob Programming](http://mobprogramming.org/).
 
-![Example Timer Image](https://github.com/mob-timer/mob-timer/blob/master/timer-example.png)
+![Example Timer Image](timer-example.png)
 
 Click the gear icon in the top right to configure the mob-timer.
 Then click the large circle to start/stop the mob-timer,
