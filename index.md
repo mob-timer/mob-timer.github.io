@@ -4,7 +4,6 @@
 
 ---
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/mob-timer/mob-timer.svg)](https://greenkeeper.io/)
 [![License](https://img.shields.io/github/license/mob-timer/mob-timer.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/mob-timer/mob-timer.svg)](https://github.com/mob-timer/mob-timer/graphs/contributors)
 [![Travis (.org)](https://img.shields.io/travis/mob-timer/mob-timer/master.svg)](https://travis-ci.org/mob-timer/mob-timer/branches)
